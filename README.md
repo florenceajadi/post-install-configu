@@ -35,7 +35,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://github.com/user-attachments/assets/5dfe0133-cc48-4c4d-a4c3-a8601998aa8d" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/df6f6bae-330c-4033-ac40-065ef8774b41" height="80%" width="80%"/>
  
 
 </p>
